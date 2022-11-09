@@ -1,7 +1,7 @@
 
 
 
-![picture 1](../images/Robots.png)  
+![picture 1](./images/Robots.png)  
 
 
 <!---
