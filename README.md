@@ -1,7 +1,8 @@
 
 
-
-![picture 1](./images/Robots.png)  
+<div align=center>
+<img src="./images/Robots.png">
+</div>
 
 
 <!---
